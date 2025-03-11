@@ -14,6 +14,11 @@ public class ChoiceManager : MonoBehaviour
 
    private List<GameObject> tempChoiceButton = new List<GameObject>();
 
+   public void Start(){
+      dialogueText = GetComponent<DialogueText>();
+
+   }
+
     public void ShowChoices(Choice[] choices){
 
         float choiceBoxHeight = 0;
