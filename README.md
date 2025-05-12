@@ -1,6 +1,6 @@
 
 # 🐾 Welcome to Wild Bites 
-**Where Every Meal Tells a Story! 🍽️**
+**Where Every Meal Tells a Story! 🍽️** 
 
 Wear the hat of a chef in Mossroot Hollow, a hidden town where your customers aren’t just hungry: they’re animals with big personalities, bigger cravings, and secrets simmering under the surface!
 
