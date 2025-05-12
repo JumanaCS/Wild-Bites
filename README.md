@@ -1,2 +1,3 @@
 # Wild-Bites
-Game
+https://jumanacs.itch.io/wild-bites
+
