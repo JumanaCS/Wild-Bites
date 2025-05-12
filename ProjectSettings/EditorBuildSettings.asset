@@ -1,0 +1,403 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Other/Title Screen.unity
+    guid: f790b1772184b8e47b68b15b8ffe8c95
+  - enabled: 1
+    path: Assets/Scenes/Other/Intro.unity
+    guid: 47d5ca8f1ba97e04896ecab6efad96c7
+  - enabled: 1
+    path: Assets/Scenes/Other/Credits.unity
+    guid: 7b3992d40a2a3b246922911edd9adafb
+  - enabled: 1
+    path: Assets/Scenes/Other/Chef.unity
+    guid: 8721e4c6326bd3b44a119052a51da22e
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Intro Crawfish.unity
+    guid: 3926b4e722ed8df4bb89b4bdeb312205
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Crawfish.unity
+    guid: 059fb737cd9c5b043bfcd0a8a8423396
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Menu tut.unity
+    guid: 02ed21334741d3c44a993680b3f809fa
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/After Menu tut.unity
+    guid: 16c8f696477fef2468597ce4169167ed
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Cooking tut.unity
+    guid: 4977ae69cfc13c246b76fe7fb278fcec
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Rec tut.unity
+    guid: 34e4fb61d6cc28848bd76f96c5f8f84b
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Cooking tut 2.unity
+    guid: dc175cca789f7ac4db3a4869376a3b99
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Crawfish Order.unity
+    guid: 87d5240ddc5ee8842bb3489eace28d8a
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Menu.unity
+    guid: 5ea714e02b522714d81517758d4bd0e1
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chopping/Scene1_1.unity
+    guid: e926e1391a247c54b9d3cfbc4fc7f3b4
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Mixing/Scene1_1_1.unity
+    guid: 265f7c6157afc0544a8b2dc9b9d0df5a
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Plating/Scene1_1_1_1.unity
+    guid: 65c9a416aa707474dbf1d94e3e1ea4dc
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chopping/Scene1_2.unity
+    guid: e29e16d47b6b6264ea4d77662fd1d2b8
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Mixing/Scene1_2_1.unity
+    guid: d9e17ebad02c3d1459188b023ae5834d
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Plating/Scene1_2_1_1.unity
+    guid: a6510ee27eefdb5478e4082d0921f89c
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chopping/Scene1_3.unity
+    guid: e9f7177a6946a824a8c1b0a71aec059e
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Mixing/Scene1_3_1.unity
+    guid: 37c935b2c1f8685409ec3d4526a695b4
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Plating/Scene1_3_1_1.unity
+    guid: d8de95514b193f142b63aba2b5b51ab8
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chopping/Scene2_1.unity
+    guid: fb368f3649fc9244f897cb61d5250acf
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Mixing/Scene2_1_1.unity
+    guid: 431770647cd136a43aa49148a796e1d2
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Plating/Scene2_1_1_1.unity
+    guid: 0dbcc88bb02468148b26c719a7f6ff11
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chopping/Scene2_2.unity
+    guid: 3777f437be135ad4ca52a8884ecc6395
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Mixing/Scene2_2_1.unity
+    guid: 9b3cfeb5814478f4387927c17cce6ccc
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Plating/Scene2_2_1_1.unity
+    guid: f1da9c720f0b9e648ad5f0285d592ed4
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chopping/Scene2_3.unity
+    guid: 98a25bde88e26e4418d9706467143bb3
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Mixing/Scene2_3_1.unity
+    guid: 4366bd09149b7be42b7dba6fbe7df122
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Plating/Scene2_3_1_1.unity
+    guid: 57e0408ff4a83f441b44aaac51ef9b3b
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chopping/Scene3_1.unity
+    guid: b9a835a092be3b145ada84733a3d4596
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Mixing/Scene3_1_1.unity
+    guid: 469173c42234eeb42a67221cdc24410f
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Plating/Scene3_1_1_1.unity
+    guid: 8dbe36c9f3d67784d81fcfaf769286e2
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chopping/Scene3_2.unity
+    guid: b45176aa1b3b6ed498a3c5fc186b5f52
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Mixing/Scene3_2_1.unity
+    guid: b5432cc2ecf2cc1449f5ae476dc5173e
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Plating/Scene3_2_1_1.unity
+    guid: 160c8e1f7fac8874d8b2dd74443c6af8
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chopping/Scene3_3.unity
+    guid: 2cc3ffee751bf714fae2364e038557df
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Mixing/Scene3_3_1.unity
+    guid: 179076db9308b974bb922726376ce186
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Plating/Scene3_3_1_1.unity
+    guid: a4cad33fe9643324f897a3c8b5eb8f62
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Responses/CrawBadRes.unity
+    guid: 106d7f9bfb2ddf64799523ded288d5d3
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Responses/CrawIngRes.unity
+    guid: ff6c2ff433a68154cbb7fffa3c088232
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Responses/CrawMealRes.unity
+    guid: 99199a9a5184fd345ad9b97b8d558132
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Responses/CrawPerfRes.unity
+    guid: 8f0b47fcd9e04b84fbde6317dfa2abd9
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chef/Crawfish Chef.unity
+    guid: eacba538986b8254bb4a4d7fa55223d1
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chef/Crawfish Chef 1.unity
+    guid: 703cdb21c9b9f5447ad293ee8ccdb453
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chef/Crawfish Chef 2.unity
+    guid: 1c01bfd8776991742b61db71a36e69bc
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chef/Crawfish Chef 3.unity
+    guid: 01f2820c6b9117e428c1b96d18bde425
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chef/Crawfish Chef 4.unity
+    guid: 4adcc799958f4dd42b5e5864e91fe0f3
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chef/Crawfish Chef 5.unity
+    guid: bc611cadd0d0f9741a8a7ad1f0869505
+  - enabled: 1
+    path: Assets/Scenes/Crawfish/Chef/Crawfish Chef 6.unity
+    guid: f6efbe65c7fd9bf448b5ef5af5be6b7d
+  - enabled: 1
+    path: Assets/Scenes/Monkey/IntroMonkey.unity
+    guid: 3bed1f6e5ceeb884fb96dd018019a258
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Monkey.unity
+    guid: b981750095c712342b64759a0620f46c
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Menu Monkey.unity
+    guid: 81c8dbf4731ccf343816cb04a548bd4a
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Chopping/SceneM1_1.unity
+    guid: c6af41df1ba581d41960453a11214000
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Chopping/SceneM1_2.unity
+    guid: bf078938e661be3488842370b9052214
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Chopping/SceneM1_3.unity
+    guid: 1fda98b6be54d76408f7b8bb72398e9f
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Chopping/SceneM2_1.unity
+    guid: 7e8720fa287ed7f46958a25ce1d5a63a
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Chopping/SceneM2_2.unity
+    guid: 699c85a2996b2ab48af93bb6d0823a6f
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Chopping/SceneM2_3.unity
+    guid: 32245681ec2d07048a7b40f6e8f28619
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Chopping/SceneM3_1.unity
+    guid: ecf0282f2ddcbf04284d1d8e54db9a32
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Chopping/SceneM3_2.unity
+    guid: 615ef66562e347742bbf7b3d01c514ab
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Chopping/SceneM3_3.unity
+    guid: 856b6039b0f93854c8ced25e99f7927f
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Mixing/SceneM1_1_1.unity
+    guid: e97caf6221b3a5d49aa3461605fd5721
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Mixing/SceneM1_2_1.unity
+    guid: 27becbcf407be2e41b0baa8914db8902
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Mixing/SceneM1_3_1.unity
+    guid: 1ffe49f378abcb24faec14bd9c8c1c73
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Mixing/SceneM2_1_1.unity
+    guid: f0094975bf3ec5440902aeabd2eca600
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Mixing/SceneM2_2_1.unity
+    guid: 67bd04d698497444a8240feceb9c23c0
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Mixing/SceneM2_3_1.unity
+    guid: fa2bdcc2ecd832545a19ac241bacf3d1
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Mixing/SceneM3_1_1.unity
+    guid: 40fc08ddd6fcf5e42ac63bec54253841
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Mixing/SceneM3_2_1.unity
+    guid: 4878a80f6b5f8104cbde8572862112d1
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Mixing/SceneM3_3_1.unity
+    guid: 5773aa9352f491a439143d5d6b19a720
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Plating/SceneM1_1_1_1.unity
+    guid: 5d319dff1d899db4da7496aa95109c76
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Plating/SceneM1_2_1_1.unity
+    guid: f5e5c8afcf94a70458dc2349be360868
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Plating/SceneM1_3_1_1.unity
+    guid: 27a394344c30c1b44a7310a39d967114
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Plating/SceneM2_1_1_1.unity
+    guid: 991b0ae34c131794cb590f08626ffdf8
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Plating/SceneM2_2_1_1.unity
+    guid: 4384fc0612a5ed7498b0ae5a3bc72da2
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Plating/SceneM2_3_1_1.unity
+    guid: ae440019cdd2a5448a97bf4cbb1725d4
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Plating/SceneM3_1_1_1.unity
+    guid: 82921f52ece0a584eb71300381953511
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Plating/SceneM3_2_1_1.unity
+    guid: d50e6d9287b9a6a48af90d2b404dfcca
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Plating/SceneM3_3_1_1.unity
+    guid: 67898ad58f406ee4ba75143e96965462
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Responses/MonBadRes.unity
+    guid: c71e214488d3a434590025e090889c24
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Responses/MonIngRes.unity
+    guid: f29b7fb621eaa8947a1975c28b246913
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Responses/MonMealRes.unity
+    guid: 8fdf6f65cbf3e874ca75d9ec03100aa1
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Responses/MonPerfRes.unity
+    guid: 825589c2de138d342bcb53a075780836
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Chef/Monkey Chef.unity
+    guid: bfa6dfc42d9452f4f8e08989016c7682
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Chef/Monkey Chef 1.unity
+    guid: f2f0b57e760629f4ea49746acb34c283
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Chef/Monkey Chef 2.unity
+    guid: f95ec71d425168d40a74a98d1cbb326f
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Chef/Monkey Chef 3.unity
+    guid: 6e7f80c2083340b458bdf5a8f7b6b229
+  - enabled: 1
+    path: Assets/Scenes/Monkey/Chef/Monkey Chef 4.unity
+    guid: 3bb3bf2af682f8d4d9ab52cb8e8ceda4
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Intro Raccoon.unity
+    guid: 6423aba2166641a4eb1df36f02a87ac8
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Raccoon.unity
+    guid: c1cf880767bfb70498ad30b71ae16d27
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Menu Raccoon.unity
+    guid: f3f2ad221cf73944389666c5324e082f
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Chopping/SceneR1_1.unity
+    guid: 5ccfd90a8339473429defb80d6796be0
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Chopping/SceneR1_2.unity
+    guid: 6b66b0f1d309ab642a861d3270266a6c
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Chopping/SceneR1_3.unity
+    guid: 12eb443a415314f4892b0f5f0164dae3
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Chopping/SceneR2_1.unity
+    guid: 779f0bc46edd77c4d83f40b19021f2d5
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Chopping/SceneR2_2.unity
+    guid: 9144171729a9c0a4ab50c56c10add5e2
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Chopping/SceneR2_3.unity
+    guid: aa59b78555fd3a4449eb493a8dcc1543
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Chopping/SceneR3_1.unity
+    guid: 2cb48ef9d80c9b1418fc066f7e59d7f3
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Chopping/SceneR3_2.unity
+    guid: e8b849631d9c3904f8fe79f3f95c1b8e
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Chopping/SceneR3_3.unity
+    guid: 19665911cc29a00499c0873a9aac12f0
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Mixing/SceneR1_1_1.unity
+    guid: 206a703264efde94880c1c604f4722b2
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Mixing/SceneR1_2_1.unity
+    guid: 8be175e8e5e230b449225970cdede58f
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Mixing/SceneR1_3_1.unity
+    guid: 74c8b56527875e2438131d398041e243
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Mixing/SceneR2_1_1.unity
+    guid: 9298c4b522c900f4e8d03aa5015996df
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Mixing/SceneR2_2_1.unity
+    guid: b35f35e3dd95bc849a459349f51a1bdb
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Mixing/SceneR2_3_1.unity
+    guid: 87813b8525bdcc74a8d4e97a4ef399ec
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Mixing/SceneR3_1_1.unity
+    guid: 3d88d2649ae584f4aa0dd0ee8f20d362
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Mixing/SceneR3_2_1.unity
+    guid: 3dd7f3d39ad8be34b856938c39edfb00
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Mixing/SceneR3_3_1.unity
+    guid: 4d050cec968179e44afa5396d9f1c731
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Plating/SceneR1_1_1_1.unity
+    guid: 8b73b8005e80331478ced5d85becaa38
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Plating/SceneR1_2_1_1.unity
+    guid: 3b8d3ad3068490941a70bb63d67bd8e2
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Plating/SceneR1_3_1_1.unity
+    guid: 03440d655d378fc40a550d9c44ea82ed
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Plating/SceneR2_1_1_1.unity
+    guid: ee82dcf1051b07b409a7ac92ebdc32d1
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Plating/SceneR2_2_1_1.unity
+    guid: 6ce1ebaae6d57eb4eb2575cd8285bb9d
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Plating/SceneR2_3_1_1.unity
+    guid: 184cbda866ddfa6449aa62a449499ba1
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Plating/SceneR3_1_1_1.unity
+    guid: 8e3a69a988affb2419be4db8d67926f7
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Plating/SceneR3_2_1_1.unity
+    guid: f250122ad057ff0458712d41d04ad561
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Plating/SceneR3_3_1_1.unity
+    guid: ba834e88b203dde4a967dd4698e1037f
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Responses/RacBadRes.unity
+    guid: 363da6b984b86bb409144f77dafb8b39
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Responses/RacIngRes.unity
+    guid: 8cedb63117fc01b4cbdd0df59bf1a04b
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Responses/RacMealRes.unity
+    guid: cf5c7c324860264499bedb4ad14bc4dd
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Responses/RacPerfRes.unity
+    guid: 27b94afc2d29e944087d94db7e134d49
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Chef/Raccoon Chef.unity
+    guid: a8f69479402da044aa60ecae479a14af
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Chef/Raccoon Chef 1.unity
+    guid: af180557e04417e479f6e2608eaa9983
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Chef/Raccoon Chef 2.unity
+    guid: 6d51930c1d6933a40a0ae3379a44d61f
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Chef/Raccoon Chef 3.unity
+    guid: 4cce16e4c9271f34f842442457b471f5
+  - enabled: 1
+    path: Assets/Scenes/Raccoon/Chef/Raccoon Chef 4.unity
+    guid: bf7482550daa9434f9da26fb00d45c8d
+  - enabled: 1
+    path: Assets/Scenes/Other/Closing.unity
+    guid: c060adeafdbd71c42b5a2f1c867d7dbc
+  - enabled: 1
+    path: Assets/Scenes/Other/Last Scene.unity
+    guid: 0947f167c56d0a34785d6664318da093
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
