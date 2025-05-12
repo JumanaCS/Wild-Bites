@@ -4,7 +4,7 @@
 
 Wear the hat of a chef in Mossroot Hollow, a hidden town where your customers aren’t just hungry: they’re animals with big personalities, bigger cravings, and secrets simmering under the surface!
 
-**🍳 Cook Your Way Into Their Hearts**
+**🍳 Cook Your Way Into Their Hearts** 
 - Decode quirky orders by matching ingredients to species and origins
 - Master sizzling mini-games – chop, fry, and plate with rhythm!
 - Spice up your restaurant with hard-earned coins (coming soon)
