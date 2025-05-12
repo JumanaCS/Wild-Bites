@@ -17,7 +17,7 @@ Wear the hat of a chef in Mossroot Hollow, a hidden town where your customers ar
 - Cozy vibes – Art and a soundtrack as warm as fresh-baked bread
 
 **Play Wild Bites Here:**
-- https://jumanacs.itch.io/wild-bites
+https://jumanacs.itch.io/wild-bites
 
 # 🍜 Screenshots 
 ![0DO9Fy](https://github.com/user-attachments/assets/ba283212-8eb1-49ea-948a-8d820ba8e890)
