@@ -1,4 +1,3 @@
-
 # 🐾 Wild Bites Case Study
 A cozy cooking sim where animal customers serve up mysteries with their meals
 
@@ -91,7 +90,7 @@ Academic Phase (Advanced Game Dev Course):
 <img style = "width: 20vh; margin: 5vh;" src = "Images/sprint6-4.png">
 </div>
 
-# 🍜 Screenshots from the Wild Bites 
+# 🍜 Screenshots from Wild Bites 
 ![0DO9Fy](https://github.com/user-attachments/assets/ba283212-8eb1-49ea-948a-8d820ba8e890)
 ![BIvUYT](https://github.com/user-attachments/assets/5520c33a-0fe3-484c-ae08-fdc2c76e5cf9)
 ![0bz6hm](https://github.com/user-attachments/assets/137b4fd1-003c-4033-9903-6384893e5baa)
