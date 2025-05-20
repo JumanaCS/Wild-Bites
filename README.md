@@ -34,9 +34,9 @@ Academic Phase (Advanced Game Dev Course):
 ### **🍳 Cooking Mechanics**
 - Species-Based Orders:
   - Design Insight: Players must observe visual/verbal clues (ex. Raccoon from USA = Trash → Burger, Monkey from Vietnam = Banana → Pho).
-  - Tech: C# dictionaries map animal traits to meal combos.
+  - Tech: Different combos of ingredient + meal = different scene to match both.
 - Mini-Games:
-  - Chopping (clicking space), mixing (drag-and-drop), plating (dragging into to-go box).
+  - Chopping (pressing space), mixing (drag-and-drop), plating (dragging into to-go box).
   - Goal: Make cooking feel tactile without frustrating players.
 
 ### 🕵️ Narrative Design
