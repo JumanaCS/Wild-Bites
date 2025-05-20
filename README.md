@@ -55,8 +55,8 @@ Academic Phase (Advanced Game Dev Course):
   - Players loved the Crawfish from New Orleans and wanted more animals.
 - Lessons Learned:
   - Scope management is critical (cut features we wanted to polish cooking).
-  - Playtest early for UX pain points (original UI was not dynamic and I had to go back and fix all the UI).
-  - 
+  - Playtest early for UI pain points (original UI was not dynamic and I had to go back and fix all the UI).
+    
 ### 🔜 Future Plans:
 - Add 5+ new animals 
 - Expand restaurant customization
