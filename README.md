@@ -18,7 +18,7 @@ A cozy cooking sim where animal customers serve up mysteries with their meals
 ## 🎮 Development Journey
 ### **1. From Sketch to Prototype**
 Academic Phase (Advanced Game Dev Course):
-- Pitch Success: My Wild Bites concept (backed by Procreate mockups) was selected from 6 pitches to become a team project. See Pitch Presentation [Here](https://docs.google.com/presentation/d/11Vi-VCzIaCUh3sMcYSTs1IfIRPhEsT-tNvg_P73OJ54/edit?usp=sharing).
+- Pitch Success: My Wild Bites concept (backed by Procreate mockups) was selected from 20+ pitches to become a team project (1 of 6). See Pitch Presentation [Here](https://docs.google.com/presentation/d/11Vi-VCzIaCUh3sMcYSTs1IfIRPhEsT-tNvg_P73OJ54/edit?usp=sharing).
 - Tech Demo: Built a dress-up feature prototype with HTML/CSS/JavaScript to validate the customization system. See protoype  https://jumanacs.github.io/Dress-Up/.
 - Showcase Ready: Led the team to deliver a vertical slice for the end-of-semester showcase.
 **Key Challenge:** Balancing academic deadlines with ambitious scope.
