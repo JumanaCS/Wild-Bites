@@ -13,7 +13,7 @@ A cozy cooking sim where animal customers serve up mysteries with their meals
 - **Co-Scrum Master:** Ran Agile sprints using Trello
 - **UX/UI Designer:** Wireframed (Figma), prototyped (HTML/CSS/JS), and implemented Unity UI
 - **Artist:** Created all character sprites and restaurant assets (Procreate)
-- **Programmer:** Developed core mechanics in C# (dialogue, cooking mini-games)
+- **Programmer:** Developed core mechanics in C# (dialogue, currency, dress up systems)
 
 ## 🎮 Development Journey
 ### **1. From Sketch to Prototype**
