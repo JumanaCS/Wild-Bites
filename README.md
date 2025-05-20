@@ -33,7 +33,7 @@ Academic Phase (Advanced Game Dev Course):
 ## ✨ Key Features & Design Decisions
 ### **🍳 Cooking Mechanics**
 - Species-Based Orders:
-  - Design Insight: Players must observe visual/verbal clues (e.g., raccoon = urban → burger, monkey = tropical → banana).
+  - Design Insight: Players must observe visual/verbal clues (ex. Raccoon from USA = Trash → Burger, Monkey from Vietnam = Banana → Pho).
   - Tech: C# dictionaries map animal traits to meal combos.
 - Mini-Games:
   - Chopping (clicking space), mixing (drag-and-drop), plating (dragging into to-go box).
