@@ -1,5 +1,7 @@
 # 🐾 Wild Bites Case Study
-A cozy cooking sim where animal customers serve up mysteries with their meals
+- A cozy cooking sim where animal customers serve up mysteries with their meals
+- 🎥 Final Game Walkthrough: https://youtu.be/lyA2G2dNQmQ
+- 🎮 Play Now: https://jumanacs.itch.io/wild-bites
 
 ## 📌 Overview
 - **Genre:** Narrative Cooking Simulation
@@ -26,9 +28,7 @@ Academic Phase (Advanced Game Dev Course):
 ### **2. Post-Graduation Polish**
 - Expanded the prototype into a full itch.io release
 - Fixed UI to fit all screen sizes
-- 🎥 Final Game Walkthrough: https://youtu.be/lyA2G2dNQmQ
-- 🎮 Play Now: https://jumanacs.itch.io/wild-bites
-
+  
 ## ✨ Key Features & Design Decisions
 ### **🍳 Cooking Mechanics**
 - Species-Based Orders:
