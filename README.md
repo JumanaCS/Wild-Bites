@@ -97,7 +97,7 @@ Academic Phase (Advanced Game Dev Course):
 </div>
 
 ### Charms Made for Users at Showcase
-<img width="582" alt="Screenshot 2025-05-23 at 6 50 43 PM" src="https://github.com/user-attachments/assets/aba25151-f9ca-450a-bb7b-76d6992aeb52" />
+<img width="300" alt="Screenshot 2025-05-23 at 6 50 43 PM" src="https://github.com/user-attachments/assets/aba25151-f9ca-450a-bb7b-76d6992aeb52" />
 
 # 🍜 Screenshots from Wild Bites 
 ![0DO9Fy](https://github.com/user-attachments/assets/ba283212-8eb1-49ea-948a-8d820ba8e890)
