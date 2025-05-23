@@ -90,6 +90,16 @@ Academic Phase (Advanced Game Dev Course):
 <img style = "width: 20vh; margin: 5vh;" src = "Images/sprint6-4.png">
 </div>
 
+# Showcase
+<div>
+<img style = "width: 20vh; margin: 5vh;" src = "Images/Pic1.png">
+<img style = "width: 20vh; margin: 5vh;" src = "Images/Pic2.png">
+<img style = "width: 20vh; margin: 5vh;" src = "Images/Pic3.png">
+</div>
+
+### Charms Made for Users at Showcase
+<img width="582" alt="Screenshot 2025-05-23 at 6 50 43 PM" src="https://github.com/user-attachments/assets/aba25151-f9ca-450a-bb7b-76d6992aeb52" />
+
 # 🍜 Screenshots from Wild Bites 
 ![0DO9Fy](https://github.com/user-attachments/assets/ba283212-8eb1-49ea-948a-8d820ba8e890)
 ![BIvUYT](https://github.com/user-attachments/assets/5520c33a-0fe3-484c-ae08-fdc2c76e5cf9)
