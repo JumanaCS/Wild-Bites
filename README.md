@@ -92,9 +92,9 @@ Academic Phase (Advanced Game Dev Course):
 
 # Showcase
 <div>
-<img style = "width: 40vh; margin: 5vh;" src = "Images/Pic1.png">
-<img style = "width: 40vh; margin: 5vh;" src = "Images/Pic2.png">
-<img style = "width: 40vh; margin: 5vh;" src = "Images/Pic3.png">
+<img style = "width: 35vh; margin: 5vh;" src = "Images/Pic1.png">
+<img style = "width: 35vh; margin: 5vh;" src = "Images/Pic2.png">
+<img style = "width: 35vh; margin: 5vh;" src = "Images/Pic3.png">
 </div>
 
 ### Charms Made for Users at Showcase
