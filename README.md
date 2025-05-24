@@ -3,7 +3,7 @@
 - 🎥 Final Game Walkthrough: https://youtu.be/lyA2G2dNQmQ
 - 🎮 Play Now: https://jumanacs.itch.io/wild-bites
 
-## 📌 Overview
+## 📌 Overview 
 - **Genre:** Narrative Cooking Simulation
 - **Platform:** PC (itch.io)
 - **Development Time:** 5 months (Academic Project → Expanded Post-Graduation)
