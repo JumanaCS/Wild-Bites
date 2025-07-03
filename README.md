@@ -16,7 +16,7 @@
 - **Artist:** Created all character sprites and restaurant assets (Procreate)
 - **Programmer:** Developed core mechanics in C# (dialogue, currency, dress up systems)
 
-## 🎮 Development Journey
+## ☆ Development Journey
 ### **1. From Sketch to Prototype**
 Academic Phase (Advanced Game Dev Course):
 - Pitch Success: My Wild Bites concept (backed by Procreate mockups) was selected from 20+ pitches to become a team project (1 of 6). See Pitch Presentation [Here](https://docs.google.com/presentation/d/11Vi-VCzIaCUh3sMcYSTs1IfIRPhEsT-tNvg_P73OJ54/edit?usp=sharing).
@@ -29,7 +29,7 @@ Academic Phase (Advanced Game Dev Course):
 - Expanded the prototype into a full itch.io release
 - Fixed UI to fit all screen sizes
   
-## ✨ Key Features & Design Decisions
+## ☆ Key Features & Design Decisions
 ### **🍳 Cooking Mechanics**
 - Species-Based Orders:
   - Design Insight: Players must observe visual/verbal clues (ex. Raccoon from USA = Trash → Burger, Monkey from Vietnam = Banana → Pho).
@@ -38,18 +38,18 @@ Academic Phase (Advanced Game Dev Course):
   - Chopping (pressing space), mixing (drag-and-drop), plating (dragging into to-go box).
   - Goal: Make cooking feel tactile without frustrating players.
 
-### 🕵️ Narrative Design
+### Narrative Design
 - Branching Dialogues:
   - Wrote 50+ dialogue branches balancing hints, humor, and character development.
   - Example: Detective Remy’s conversations reveal case clues only if players earn his trust.
 
-### 🎨 Cozy Aesthetic
+### Cozy Aesthetic
 - Art Style: Warm colors, soft outlines, and expressive animations to evoke comfort.
 - UI/UX:
   - Utalized Unity UI to add buttons, make images dynamic across screens using Canvas, and text boxes for the dialogue.  
   - Added chef customization to boost player attachment.
  
-## 📊 Results & Takeaways
+## ☆ Results & Takeaways
 - Showcase Feedback:
   - Players loved the Crawfish from New Orleans and wanted more animals.
 - Lessons Learned:
