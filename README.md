@@ -3,13 +3,13 @@
 - 🎥 Final Game Walkthrough: https://youtu.be/lyA2G2dNQmQ
 - 🎮 Play Now: https://jumanacs.itch.io/wild-bites
 
-## 📌 Overview 
+## ☆ Overview 
 - **Genre:** Narrative Cooking Simulation
 - **Platform:** PC (itch.io)
 - **Development Time:** 5 months (Academic Project → Expanded Post-Graduation)
 - **Inspirations:** Good Pizza, Great Pizza’s charm × Cooking Mama’s mini-games × Coffee Talk’s storytelling
 
-### 👩‍💻 My Roles
+### My Roles
 - **Product Manager/Team Leader:** Pitched concept, formed team, prioritized features
 - **Co-Scrum Master:** Ran Agile sprints using Trello
 - **UX/UI Designer:** Wireframed (Figma), prototyped (HTML/CSS/JS), and implemented Unity UI
@@ -30,7 +30,7 @@ Academic Phase (Advanced Game Dev Course):
 - Fixed UI to fit all screen sizes
   
 ## ☆ Key Features & Design Decisions
-### **🍳 Cooking Mechanics**
+### **Cooking Mechanics**
 - Species-Based Orders:
   - Design Insight: Players must observe visual/verbal clues (ex. Raccoon from USA = Trash → Burger, Monkey from Vietnam = Banana → Pho).
   - Tech: Different combos of ingredient + meal = different scene to match both.
