@@ -11,7 +11,7 @@
 - **Inspirations:** Good Pizza, Great Pizza’s charm × Cooking Mama’s mini-games × Coffee Talk’s storytelling
 
 ### My Roles
-- **Product Manager/Team Leader:** Pitched concept, formed team, prioritized features
+- **Product Manager/Team Leader:** Pitched concept, formed team, prioritized features 
 - **Co-Scrum Master:** Ran Agile sprints using Trello
 - **UX/UI Designer:** Wireframed (Figma), prototyped (HTML/CSS/JS), and implemented Unity UI
 - **Artist:** Created all character sprites and restaurant assets (Procreate)
