@@ -53,7 +53,7 @@ Academic Phase (Advanced Game Dev Course):
 - Showcase Feedback:
   - Players loved the Crawfish from New Orleans and wanted more animals.
 - Lessons Learned:
-  - Scope management is critical (cut features we wanted to polish cooking).
+  - Scope management is critical (cut features we wanted to have to focus on polishing cooking).
   - Playtest early for UI pain points (original UI was not dynamic and I had to go back and fix all the UI).
     
 ### 🔜 Future Plans:
