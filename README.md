@@ -109,3 +109,13 @@ Academic Phase (Advanced Game Dev Course):
 <img width="1510" height="943" alt="Screenshot 2025-12-27 at 9 14 54 AM" src="https://github.com/user-attachments/assets/da4d54ad-60df-43a9-bdeb-df0192450533" />
 ![UZpn3q](https://github.com/user-attachments/assets/756575fb-ce2d-42bd-b453-ea5f89c3035a)
 <img width="1510" height="943" alt="Screenshot 2025-12-27 at 9 11 26 AM" src="https://github.com/user-attachments/assets/16e2d51d-3c0c-4507-8b18-dfe424c35776" />
+
+---
+
+<div align="center">
+
+**Made with 🍜 by Jumana Suleiman**
+
+*Wild Bites - Where Every Meal Tells a Story*
+
+</div>
