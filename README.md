@@ -1,3 +1,4 @@
+![IMG_5902](https://github.com/user-attachments/assets/70dd3661-6169-4d21-a53c-3dbdd2ead633)
 # 🐾 Wild Bites Case Study
 - A cozy cooking sim where animal customers serve up mysteries with their meals
 - 🎥 Final Game Walkthrough: https://youtu.be/lyA2G2dNQmQ
