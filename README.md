@@ -3,6 +3,7 @@
 - A cozy cooking sim where animal customers serve up mysteries with their meals
 - 🎥 Final Game Walkthrough: https://youtu.be/lyA2G2dNQmQ
 - 🎮 Play Now: https://jumanacs.itch.io/wild-bites
+- 🗞️ Article Feature: https://www.uno.edu/news/2025-05-15/uno-computer-science-students-hold-video-game-showcase
 
 ## ☆ Overview 
 - **Genre:** Narrative Cooking Simulation
